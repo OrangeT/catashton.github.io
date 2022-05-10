@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xml:lang="en-US"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	>
+	<title type="text">Comments on Snowy times</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2013-01-21T23:50:00Z</updated>
+
+	<link rel="alternate" type="text/html" href="/2013/01/snowy-times/#comments" />
+	<link rel="self" type="application/atom+xml" href="/2013/01/snowy-times/feed/atom/" />
+	<id>/2013/01/snowy-times/feed/atom/</id>
+<generator uri="https://wordpress.org/" version="4.9.4">WordPress</generator>
+	<entry>
+		<title>By: LYNN ASHTON</title>
+		<link rel="alternate" href="/2013/01/snowy-times/#comment-7944" type="text/html" />
+
+		<author>
+			<name>LYNN ASHTON</name>
+			
+		</author>
+
+		<id>/?p=1823#comment-7944</id>
+		<updated>2013-01-21T23:50:00Z</updated>
+		<published>2013-01-21T23:50:00Z</published>
+		<content type="html" xml:base="/2013/01/snowy-times/#comment-7944"><![CDATA[<p>We will get together when the weather improves,I know Rob is waiting to make plans.<br />
+My request is for my new Epson connected-we both looked at the instructions and agreed far beyond our ken!-when it can be managed.<br />
+Keep safe.</p>
+]]></content>
+		<thr:in-reply-to ref="/?p=1823" href="/2013/01/snowy-times/" type="text/html" />
+	</entry>
+	<entry>
+		<title>By: Liz Ashton</title>
+		<link rel="alternate" href="/2013/01/snowy-times/#comment-7929" type="text/html" />
+
+		<author>
+			<name>Liz Ashton</name>
+			
+		</author>
+
+		<id>/?p=1823#comment-7929</id>
+		<updated>2013-01-21T17:40:55Z</updated>
+		<published>2013-01-21T17:40:55Z</published>
+		<content type="html" xml:base="/2013/01/snowy-times/#comment-7929"><![CDATA[<p>Good to hear you&#8217;re both okay in this weather. Edinburgh centre isn&#8217;t so bad, lots of snow but not sticking. How are the cats enjoying the weather?</p>
+]]></content>
+		<thr:in-reply-to ref="/?p=1823" href="/2013/01/snowy-times/" type="text/html" />
+	</entry>
+</feed>

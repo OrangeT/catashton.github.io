@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Samsung Mob!ler &#8211; Cat&#039;s Photos and Crafts</title>
+	<atom:link href="/category/samsung-mobler/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Feb 2018 14:27:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Happy Birthday Android!</title>
+		<link>/2010/11/179/</link>
+		<comments>/2010/11/179/#respond</comments>
+		<pubDate>Fri, 05 Nov 2010 23:42:17 +0000</pubDate>
+		<dc:creator><![CDATA[cat]]></dc:creator>
+				<category><![CDATA[Equipment]]></category>
+		<category><![CDATA[Knitting]]></category>
+		<category><![CDATA[Portraits]]></category>
+		<category><![CDATA[Samsung Mob!ler]]></category>
+
+		<guid isPermaLink="false">/?p=179</guid>
+		<description><![CDATA[Happy birthday to android! 3 today!]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/perdita-x/5149363705/"><img src="http://farm5.static.flickr.com/4006/5149363705_d1a0b2c1f1_z.jpg" alt="mikey's birthday!"/></a></p>
+<p>Happy birthday to android! 3 today!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/179/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

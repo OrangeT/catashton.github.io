@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Birthdays..</title>
+	<atom:link href="/2009/03/birthdays/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/03/birthdays/</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Jan 2013 23:50:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>By: Simon</title>
+		<link>/2009/03/birthdays/#comment-738</link>
+		<dc:creator><![CDATA[Simon]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2009 20:03:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=85#comment-738</guid>
+		<description><![CDATA[I am sadly too far away for Cake. I can, however, say HAPPY BIRTHDAY! (and, oooh, 21. that means you can... er, teach people to drive?)]]></description>
+		<content:encoded><![CDATA[<p>I am sadly too far away for Cake. I can, however, say HAPPY BIRTHDAY! (and, oooh, 21. that means you can&#8230; er, teach people to drive?)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mrmist</title>
+		<link>/2009/03/birthdays/#comment-737</link>
+		<dc:creator><![CDATA[Mrmist]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2009 17:50:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=85#comment-737</guid>
+		<description><![CDATA[happy birthday!]]></description>
+		<content:encoded><![CDATA[<p>happy birthday!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mark</title>
+		<link>/2009/03/birthdays/#comment-734</link>
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2009 14:45:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=85#comment-734</guid>
+		<description><![CDATA[All the best for your birthday.]]></description>
+		<content:encoded><![CDATA[<p>All the best for your birthday.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

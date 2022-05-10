@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#ninjagig &#8211; Cat&#039;s Photos and Crafts</title>
+	<atom:link href="/tag/ninjagig/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Feb 2018 14:27:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Mitch Benn Revisited</title>
+		<link>/2011/04/mitch-benn-revisited/</link>
+		<comments>/2011/04/mitch-benn-revisited/#respond</comments>
+		<pubDate>Wed, 06 Apr 2011 15:12:34 +0000</pubDate>
+		<dc:creator><![CDATA[cat]]></dc:creator>
+				<category><![CDATA[Event]]></category>
+		<category><![CDATA[Portraits]]></category>
+		<category><![CDATA[#ninjagig]]></category>
+		<category><![CDATA[black&white]]></category>
+		<category><![CDATA[comedy]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[mitch benn]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[portraits]]></category>
+
+		<guid isPermaLink="false">/?p=260</guid>
+		<description><![CDATA[This is another from the series I took at Mitch Benn&#8217;s Ninjagig from a couple of weekends ago. Just thought I&#8217;d share it. Found it while looking through trying to cheer myself up (currently a little unwell).]]></description>
+				<content:encoded><![CDATA[<p><a rel="attachment wp-att-261" href="/2011/04/mitch-benn-revisited/mitch/"><img class="aligncenter size-full wp-image-261" title="Mitch" src="/wp-content/uploads/2011/04/Mitch.jpg" alt="" width="683" height="1024" srcset="/wp-content/uploads/2011/04/Mitch.jpg 683w, /wp-content/uploads/2011/04/Mitch-200x300.jpg 200w" sizes="(max-width: 683px) 100vw, 683px" /></a></p>
+<p>This is another from the series I took at Mitch Benn&#8217;s Ninjagig from a couple of weekends ago.  Just thought I&#8217;d share it. Found it while looking through trying to cheer myself up (currently a little unwell).</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/mitch-benn-revisited/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
